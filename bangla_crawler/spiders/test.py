@@ -16,7 +16,6 @@ class TestSpider(Spider):
     allowed_domains = ["lus.ac.bd"]
     start_urls = ["https://www.lus.ac.bd/"]
 
-    # Define regex pattern for test URLs
     test_pattern = re.compile(r'^(https?:\/\/)?(www\.)?lus\.ac\.bd\/author\/.+?$')
 
     def __init__(self, *args, **kwargs):
@@ -25,9 +24,9 @@ class TestSpider(Spider):
         if not os.path.exists('db'):
             os.makedirs('db')
         
-        self.crawled_db = sqlite3.connect('db/crawled_urls.db')
+        self.crawled_db = sqlite3.connect(f'db/{self.name}_crawled_urls.db')
         self.crawled_cursor = self.crawled_db.cursor()
-        self.matched_db = sqlite3.connect('db/matched_urls.db')
+        self.matched_db = sqlite3.connect(f'db/{self.name}_matched_urls.db')
         self.matched_cursor = self.matched_db.cursor()
         self._setup_databases()
 
@@ -77,14 +76,13 @@ class TestSpider(Spider):
     def calculate_similarity(self, url):
         url_vector = self.vectorizer.transform([url])
         similarity = cosine_similarity(self.target_vector, url_vector)[0][0]
-        return -similarity  # Negative because PriorityQueue prioritizes lower values
+        return -similarity  
 
     def start_requests(self):
         for url in self.start_urls:
             priority = self.calculate_similarity(url)
             self.frontier.put((priority, url))
-        
-        # Return an iterable (list) of requests
+
         return [self.next_request()]
 
     def next_request(self):
@@ -92,7 +90,7 @@ class TestSpider(Spider):
             _, url = self.frontier.get()
             if not self._url_crawled(url):
                 return scrapy.Request(url, callback=self.parse_item)
-        return None  # Return None if there are no more URLs to crawl
+        return None 
 
     def parse_item(self, response):
         self.logger.info(f"Scraping page: {response.url}")
@@ -115,13 +113,14 @@ class TestSpider(Spider):
             yield next_request
 
     def closed(self, reason):
+        self.logger.info(f"Spider closed because: {reason}")
         self.matched_cursor.execute('SELECT url FROM matched_urls')
         urls = [row[0] for row in self.matched_cursor.fetchall()]
 
         if not os.path.exists('output'):
             os.makedirs('output')
 
-        with open('output/matched_links.json', 'w') as f:
+        with open(f'output/{self.name}_matched_links.json', 'w') as f:
             json.dump([{'url': url} for url in urls], f, indent=2)
 
         self.crawled_db.close()
