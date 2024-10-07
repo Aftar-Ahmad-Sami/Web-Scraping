@@ -1,0 +1,157 @@
+2024-10-07 22:47:55,565 - INFO - [https://sharebiz.net/category/national-news] Loaded 0 existing links from database.
+2024-10-07 22:47:55,565 - INFO - [https://sharebiz.net/category/national-news] Last scraped page: 0
+2024-10-07 22:47:55,565 - INFO - [https://sharebiz.net/category/national-news] Scraping pages from 1 to 10
+2024-10-07 22:47:55,565 - INFO - [https://sharebiz.net/category/national-news] Scraping batch: Pages 1 to 3
+2024-10-07 22:48:02,956 - INFO - [https://sharebiz.net/category/national-news] Visiting page: https://sharebiz.net/category/national-news/page/1/
+2024-10-07 22:48:03,092 - INFO - [https://sharebiz.net/category/national-news] Visiting page: https://sharebiz.net/category/national-news/page/3/
+2024-10-07 22:48:08,549 - INFO - [https://sharebiz.net/category/national-news] Page 3: Found 40 links.
+2024-10-07 22:48:10,834 - INFO - [https://sharebiz.net/category/national-news] Page 1: Found 40 links.
+2024-10-07 22:48:12,879 - INFO - [https://sharebiz.net/category/national-news] Visiting page: https://sharebiz.net/category/national-news/page/2/
+2024-10-07 22:48:15,361 - INFO - [https://sharebiz.net/category/national-news] Page 3: 40 new links added.
+2024-10-07 22:48:17,111 - INFO - [https://sharebiz.net/category/national-news] Page 1: 11 new links added.
+2024-10-07 22:48:17,226 - INFO - [https://sharebiz.net/category/national-news] Page 2: Found 40 links.
+2024-10-07 22:48:23,486 - INFO - [https://sharebiz.net/category/national-news] Page 2: 9 new links added.
+2024-10-07 22:48:23,488 - INFO - [https://sharebiz.net/category/national-news] Scraping batch: Pages 4 to 6
+2024-10-07 22:48:29,055 - INFO - [https://sharebiz.net/category/national-news] Visiting page: https://sharebiz.net/category/national-news/page/5/
+2024-10-07 22:48:29,232 - INFO - [https://sharebiz.net/category/national-news] Visiting page: https://sharebiz.net/category/national-news/page/4/
+2024-10-07 22:48:30,544 - INFO - [https://sharebiz.net/category/national-news] Visiting page: https://sharebiz.net/category/national-news/page/6/
+2024-10-07 22:48:41,208 - INFO - [https://sharebiz.net/category/national-news] Page 5: Found 40 links.
+2024-10-07 22:48:41,486 - INFO - [https://sharebiz.net/category/national-news] Page 6: Found 40 links.
+2024-10-07 22:48:41,613 - INFO - [https://sharebiz.net/category/national-news] Page 4: Found 40 links.
+2024-10-07 22:48:48,707 - INFO - [https://sharebiz.net/category/national-news] Page 4: 12 new links added.
+2024-10-07 22:48:48,760 - INFO - [https://sharebiz.net/category/national-news] Page 6: 12 new links added.
+2024-10-07 22:48:48,794 - INFO - [https://sharebiz.net/category/national-news] Page 5: 12 new links added.
+2024-10-07 22:48:48,795 - INFO - [https://sharebiz.net/category/national-news] Scraping batch: Pages 7 to 9
+2024-10-07 22:48:52,580 - INFO - [https://sharebiz.net/category/national-news] Visiting page: https://sharebiz.net/category/national-news/page/9/
+2024-10-07 22:48:53,569 - INFO - [https://sharebiz.net/category/national-news] Visiting page: https://sharebiz.net/category/national-news/page/7/
+2024-10-07 22:48:53,947 - INFO - [https://sharebiz.net/category/national-news] Visiting page: https://sharebiz.net/category/national-news/page/8/
+2024-10-07 22:49:01,890 - INFO - [https://sharebiz.net/category/national-news] Page 9: Found 40 links.
+2024-10-07 22:49:02,495 - INFO - [https://sharebiz.net/category/national-news] Page 7: Found 39 links.
+2024-10-07 22:49:03,506 - INFO - [https://sharebiz.net/category/national-news] Page 8: Found 40 links.
+2024-10-07 22:49:09,985 - INFO - [https://sharebiz.net/category/national-news] Page 8: 12 new links added.
+2024-10-07 22:49:10,044 - INFO - [https://sharebiz.net/category/national-news] Page 7: 11 new links added.
+2024-10-07 22:49:10,097 - INFO - [https://sharebiz.net/category/national-news] Page 9: 12 new links added.
+2024-10-07 22:49:10,097 - INFO - [https://sharebiz.net/category/national-news] Scraping batch: Pages 10 to 10
+2024-10-07 22:49:14,758 - INFO - [https://sharebiz.net/category/national-news] Visiting page: https://sharebiz.net/category/national-news/page/10/
+2024-10-07 22:49:18,871 - INFO - [https://sharebiz.net/category/national-news] Page 10: Found 40 links.
+2024-10-07 22:49:25,154 - INFO - [https://sharebiz.net/category/national-news] Page 10: 12 new links added.
+2024-10-07 22:49:25,208 - INFO - [https://sharebiz.net/category/national-news] Updated last scraped page to: 10
+2024-10-07 22:49:25,209 - INFO - [https://sharebiz.net/category/national-news] Total unique links collected: 140
+2024-10-07 22:49:25,209 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Loaded 140 existing links from database.
+2024-10-07 22:49:25,212 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Last scraped page: 0
+2024-10-07 22:49:25,212 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Scraping pages from 1 to 10
+2024-10-07 22:49:25,212 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Scraping batch: Pages 1 to 3
+2024-10-07 22:49:29,528 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Visiting page: https://sharebiz.net/category/daily-paper/first-page//page/3/
+2024-10-07 22:49:30,282 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Visiting page: https://sharebiz.net/category/daily-paper/first-page//page/1/
+2024-10-07 22:49:30,712 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Visiting page: https://sharebiz.net/category/daily-paper/first-page//page/2/
+2024-10-07 22:49:39,939 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 2: Found 40 links.
+2024-10-07 22:49:40,220 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 3: Found 40 links.
+2024-10-07 22:49:40,261 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 1: Found 40 links.
+2024-10-07 22:49:47,149 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 3: 11 new links added.
+2024-10-07 22:49:47,150 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 1: No new links found.
+2024-10-07 22:49:47,150 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 2: No new links found.
+2024-10-07 22:49:47,151 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Scraping batch: Pages 4 to 6
+2024-10-07 22:49:51,384 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Visiting page: https://sharebiz.net/category/daily-paper/first-page//page/6/
+2024-10-07 22:49:51,580 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Visiting page: https://sharebiz.net/category/daily-paper/first-page//page/5/
+2024-10-07 22:49:51,861 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Visiting page: https://sharebiz.net/category/daily-paper/first-page//page/4/
+2024-10-07 22:49:59,921 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 4: Found 40 links.
+2024-10-07 22:49:59,965 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 6: Found 40 links.
+2024-10-07 22:50:00,066 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 5: Found 40 links.
+2024-10-07 22:50:06,767 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 4: 12 new links added.
+2024-10-07 22:50:06,823 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 6: 12 new links added.
+2024-10-07 22:50:06,867 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 5: 12 new links added.
+2024-10-07 22:50:06,867 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Scraping batch: Pages 7 to 9
+2024-10-07 22:50:11,332 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Visiting page: https://sharebiz.net/category/daily-paper/first-page//page/8/
+2024-10-07 22:50:12,345 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Visiting page: https://sharebiz.net/category/daily-paper/first-page//page/9/
+2024-10-07 22:50:12,630 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Visiting page: https://sharebiz.net/category/daily-paper/first-page//page/7/
+2024-10-07 22:50:15,507 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 8: Found 40 links.
+2024-10-07 22:50:19,523 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 9: Found 40 links.
+2024-10-07 22:50:19,812 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 7: Found 40 links.
+2024-10-07 22:50:22,114 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 8: 14 new links added.
+2024-10-07 22:50:26,188 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 9: 12 new links added.
+2024-10-07 22:50:26,234 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 7: 12 new links added.
+2024-10-07 22:50:26,234 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Scraping batch: Pages 10 to 10
+2024-10-07 22:50:30,539 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Visiting page: https://sharebiz.net/category/daily-paper/first-page//page/10/
+2024-10-07 22:50:34,740 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 10: Found 40 links.
+2024-10-07 22:50:40,998 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Page 10: 12 new links added.
+2024-10-07 22:50:41,064 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Updated last scraped page to: 10
+2024-10-07 22:50:41,066 - INFO - [https://sharebiz.net/category/daily-paper/first-page/] Total unique links collected: 236
+2024-10-07 22:50:41,069 - INFO - [https://sharebiz.net/category/international-news] Loaded 236 existing links from database.
+2024-10-07 22:50:41,070 - INFO - [https://sharebiz.net/category/international-news] Last scraped page: 0
+2024-10-07 22:50:41,071 - INFO - [https://sharebiz.net/category/international-news] Scraping pages from 1 to 10
+2024-10-07 22:50:41,072 - INFO - [https://sharebiz.net/category/international-news] Scraping batch: Pages 1 to 3
+2024-10-07 22:50:45,108 - INFO - [https://sharebiz.net/category/international-news] Visiting page: https://sharebiz.net/category/international-news/page/3/
+2024-10-07 22:50:45,445 - INFO - [https://sharebiz.net/category/international-news] Visiting page: https://sharebiz.net/category/international-news/page/2/
+2024-10-07 22:50:45,612 - INFO - [https://sharebiz.net/category/international-news] Visiting page: https://sharebiz.net/category/international-news/page/1/
+2024-10-07 22:50:49,898 - INFO - [https://sharebiz.net/category/international-news] Page 3: Found 24 links.
+2024-10-07 22:50:50,571 - INFO - [https://sharebiz.net/category/international-news] Page 2: Found 24 links.
+2024-10-07 22:50:50,695 - INFO - [https://sharebiz.net/category/international-news] Page 1: Found 24 links.
+2024-10-07 22:50:57,284 - INFO - [https://sharebiz.net/category/international-news] Page 3: No new links found.
+2024-10-07 22:50:57,306 - INFO - [https://sharebiz.net/category/international-news] Page 1: No new links found.
+2024-10-07 22:50:57,306 - INFO - [https://sharebiz.net/category/international-news] Page 2: No new links found.
+2024-10-07 22:50:57,306 - INFO - [https://sharebiz.net/category/international-news] Scraping batch: Pages 4 to 6
+2024-10-07 22:51:01,142 - INFO - [https://sharebiz.net/category/international-news] Visiting page: https://sharebiz.net/category/international-news/page/6/
+2024-10-07 22:51:01,428 - INFO - [https://sharebiz.net/category/international-news] Visiting page: https://sharebiz.net/category/international-news/page/5/
+2024-10-07 22:51:01,654 - INFO - [https://sharebiz.net/category/international-news] Visiting page: https://sharebiz.net/category/international-news/page/4/
+2024-10-07 22:51:06,772 - INFO - [https://sharebiz.net/category/international-news] Page 4: Found 24 links.
+2024-10-07 22:51:06,798 - INFO - [https://sharebiz.net/category/international-news] Page 6: Found 24 links.
+2024-10-07 22:51:06,825 - INFO - [https://sharebiz.net/category/international-news] Page 5: Found 24 links.
+2024-10-07 22:51:13,333 - INFO - [https://sharebiz.net/category/international-news] Page 4: No new links found.
+2024-10-07 22:51:13,363 - INFO - [https://sharebiz.net/category/international-news] Page 6: No new links found.
+2024-10-07 22:51:13,363 - INFO - [https://sharebiz.net/category/international-news] Page 5: No new links found.
+2024-10-07 22:51:13,366 - INFO - [https://sharebiz.net/category/international-news] Scraping batch: Pages 7 to 9
+2024-10-07 22:51:17,425 - INFO - [https://sharebiz.net/category/international-news] Visiting page: https://sharebiz.net/category/international-news/page/7/
+2024-10-07 22:51:17,786 - INFO - [https://sharebiz.net/category/international-news] Visiting page: https://sharebiz.net/category/international-news/page/8/
+2024-10-07 22:51:18,638 - INFO - [https://sharebiz.net/category/international-news] Visiting page: https://sharebiz.net/category/international-news/page/9/
+2024-10-07 22:51:19,531 - INFO - [https://sharebiz.net/category/international-news] Page 7: Found 24 links.
+2024-10-07 22:51:21,732 - INFO - [https://sharebiz.net/category/international-news] Page 8: Found 24 links.
+2024-10-07 22:51:21,865 - INFO - [https://sharebiz.net/category/international-news] Page 9: Found 24 links.
+2024-10-07 22:51:26,106 - INFO - [https://sharebiz.net/category/international-news] Page 7: No new links found.
+2024-10-07 22:51:28,173 - INFO - [https://sharebiz.net/category/international-news] Page 9: No new links found.
+2024-10-07 22:51:28,173 - INFO - [https://sharebiz.net/category/international-news] Page 8: No new links found.
+2024-10-07 22:51:28,173 - INFO - [https://sharebiz.net/category/international-news] Scraping batch: Pages 10 to 10
+2024-10-07 22:51:32,101 - INFO - [https://sharebiz.net/category/international-news] Visiting page: https://sharebiz.net/category/international-news/page/10/
+2024-10-07 22:51:34,227 - INFO - [https://sharebiz.net/category/international-news] Page 10: Found 24 links.
+2024-10-07 22:51:40,422 - INFO - [https://sharebiz.net/category/international-news] Page 10: No new links found.
+2024-10-07 22:51:40,479 - INFO - [https://sharebiz.net/category/international-news] Updated last scraped page to: 10
+2024-10-07 22:51:40,480 - INFO - [https://sharebiz.net/category/international-news] Total unique links collected: 236
+2024-10-07 22:51:40,482 - INFO - [https://sharebiz.net/category/sports-news] Loaded 236 existing links from database.
+2024-10-07 22:51:40,483 - INFO - [https://sharebiz.net/category/sports-news] Last scraped page: 0
+2024-10-07 22:51:40,483 - INFO - [https://sharebiz.net/category/sports-news] Scraping pages from 1 to 10
+2024-10-07 22:51:40,484 - INFO - [https://sharebiz.net/category/sports-news] Scraping batch: Pages 1 to 3
+2024-10-07 22:51:45,157 - INFO - [https://sharebiz.net/category/sports-news] Visiting page: https://sharebiz.net/category/sports-news/page/2/
+2024-10-07 22:51:45,718 - INFO - [https://sharebiz.net/category/sports-news] Visiting page: https://sharebiz.net/category/sports-news/page/1/
+2024-10-07 22:51:46,712 - INFO - [https://sharebiz.net/category/sports-news] Visiting page: https://sharebiz.net/category/sports-news/page/3/
+2024-10-07 22:51:52,160 - INFO - [https://sharebiz.net/category/sports-news] Page 3: Found 24 links.
+2024-10-07 22:51:52,467 - INFO - [https://sharebiz.net/category/sports-news] Page 1: Found 24 links.
+2024-10-07 22:51:52,565 - INFO - [https://sharebiz.net/category/sports-news] Page 2: Found 24 links.
+2024-10-07 22:52:00,104 - INFO - [https://sharebiz.net/category/sports-news] Page 3: No new links found.
+2024-10-07 22:52:00,155 - INFO - [https://sharebiz.net/category/sports-news] Page 1: No new links found.
+2024-10-07 22:52:00,232 - INFO - [https://sharebiz.net/category/sports-news] Page 2: No new links found.
+2024-10-07 22:52:00,233 - INFO - [https://sharebiz.net/category/sports-news] Scraping batch: Pages 4 to 6
+2024-10-07 22:52:05,836 - INFO - [https://sharebiz.net/category/sports-news] Visiting page: https://sharebiz.net/category/sports-news/page/4/
+2024-10-07 22:52:06,782 - INFO - [https://sharebiz.net/category/sports-news] Visiting page: https://sharebiz.net/category/sports-news/page/5/
+2024-10-07 22:52:07,221 - INFO - [https://sharebiz.net/category/sports-news] Visiting page: https://sharebiz.net/category/sports-news/page/6/
+2024-10-07 22:52:17,371 - INFO - [https://sharebiz.net/category/sports-news] Page 4: Found 24 links.
+2024-10-07 22:52:18,547 - INFO - [https://sharebiz.net/category/sports-news] Page 6: Found 24 links.
+2024-10-07 22:52:18,883 - INFO - [https://sharebiz.net/category/sports-news] Page 5: Found 24 links.
+2024-10-07 22:52:27,239 - INFO - [https://sharebiz.net/category/sports-news] Page 4: No new links found.
+2024-10-07 22:52:27,278 - INFO - [https://sharebiz.net/category/sports-news] Page 5: No new links found.
+2024-10-07 22:52:28,243 - INFO - [https://sharebiz.net/category/sports-news] Page 6: No new links found.
+2024-10-07 22:52:28,244 - INFO - [https://sharebiz.net/category/sports-news] Scraping batch: Pages 7 to 9
+2024-10-07 22:52:33,794 - INFO - [https://sharebiz.net/category/sports-news] Visiting page: https://sharebiz.net/category/sports-news/page/8/
+2024-10-07 22:52:33,954 - INFO - [https://sharebiz.net/category/sports-news] Visiting page: https://sharebiz.net/category/sports-news/page/7/
+2024-10-07 22:52:34,100 - INFO - [https://sharebiz.net/category/sports-news] Visiting page: https://sharebiz.net/category/sports-news/page/9/
+2024-10-07 22:52:40,040 - INFO - [https://sharebiz.net/category/sports-news] Page 8: Found 24 links.
+2024-10-07 22:52:40,583 - INFO - [https://sharebiz.net/category/sports-news] Page 7: Found 24 links.
+2024-10-07 22:52:41,489 - INFO - [https://sharebiz.net/category/sports-news] Page 9: Found 24 links.
+2024-10-07 22:52:47,028 - INFO - [https://sharebiz.net/category/sports-news] Page 8: No new links found.
+2024-10-07 22:52:47,333 - INFO - [https://sharebiz.net/category/sports-news] Page 7: No new links found.
+2024-10-07 22:52:47,917 - INFO - [https://sharebiz.net/category/sports-news] Page 9: No new links found.
+2024-10-07 22:52:47,918 - INFO - [https://sharebiz.net/category/sports-news] Scraping batch: Pages 10 to 10
+2024-10-07 22:52:51,644 - INFO - [https://sharebiz.net/category/sports-news] Visiting page: https://sharebiz.net/category/sports-news/page/10/
+2024-10-07 22:52:53,957 - INFO - [https://sharebiz.net/category/sports-news] Page 10: Found 24 links.
+2024-10-07 22:53:00,147 - INFO - [https://sharebiz.net/category/sports-news] Page 10: No new links found.
+2024-10-07 22:53:00,209 - INFO - [https://sharebiz.net/category/sports-news] Updated last scraped page to: 10
+2024-10-07 22:53:00,213 - INFO - [https://sharebiz.net/category/sports-news] Total unique links collected: 236
+2024-10-07 22:53:00,233 - INFO - Scraping session completed.
